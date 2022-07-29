@@ -1,1 +1,1 @@
-web: gunicorn ToDolist.wsgi --log-file-
+web: gunicorn ToDolist.wsgi --log-file -
